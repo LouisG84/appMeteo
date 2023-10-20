@@ -1,0 +1,17 @@
+API :
+    https://openweathermap.org/price
+
+    https://weatherstack.com/product
+
+    https://www.tomorrow.io/weather-api/
+
+
+login openWeather : loulou84
+
+
+https://lig-membres.imag.fr/genoud/teaching/PL2AI/tds/AWA/sujets/FetchAPI/tp02_ApplisWeb.html
+
+DB
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
+
+connexions : https://medium.com/@kaklotarrahul79/step-by-step-guide-connecting-mongodb-with-react-js-for-seamless-full-stack-development-db51c34da282
